@@ -15,11 +15,11 @@ export const TOKENS: TokenMeta[] = [
   GambaStandardTokens.sol,
   GambaStandardTokens.usdc,
   // {
-  //   mint: new PublicKey(""),
-  //   symbol: '???',
-  //   name: 'Custom SPL Token',
-  //   image: "image url",
-  //   decimals: 6,
-  //   baseWager: 1 * 1e6,
+  //  mint: new PublicKey("2BtpgypSfz8UHANz7ocGU4QWrNNTm7ncp5K4ZPKSjxQe"),
+    symbol: 'CLOWN',
+    name: 'ClownFish',
+    image: "https://i.ibb.co/hmL3144/128-2.png",
+    decimals: 9,
+    baseWager: 1000 * 1e9,
   // }
 ]
